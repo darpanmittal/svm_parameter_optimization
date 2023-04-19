@@ -2,6 +2,6 @@
 
 In this project, we conducted an investigation into the effectiveness of Support Vector Machines (SVM) for solving classification problems, with a specific focus on optimizing SVM parameters. We utilized the Scikit-learn library in Python to implement our SVM model and performed our analysis on the shill bidding Data Set. We randomly split the dataset into 10 samples for training and testing our SVM model, and tested various combinations of SVM parameters to identify the optimal settings for each sample. The results of our project are presented in a table that showcases the accuracy achieved for each sample, along with the corresponding SVM parameters that resulted in the highest accuracy. This table can serve as a valuable reference for future classification tasks that require SVM parameter optimization.
 
-#Dataset description
+# Dataset Description
 
 The "shill bidding" dataset from the UCI Machine Learning Repository is a collection of data related to online auction bidding behavior, specifically aimed at detecting potential shill bidding activities. It includes features such as bidder ID, auction ID, bidder characteristics, item characteristics, auction context, and outcome (a binary label indicating potential shill bidding). This dataset can be used for classification tasks, such as identifying potential shill bidders or predicting auction outcomes, after appropriate preprocessing and feature engineering.
