@@ -14,6 +14,7 @@ Number of Instances: 10129
 
 Number of Attributes: 16
 
+# Comparitive performance of optimized-SVM with 10 samples
 
 ![image](https://user-images.githubusercontent.com/89724797/233163603-4bd31461-2aa8-4a74-9d1c-b4270bc9b1de.png)
 
