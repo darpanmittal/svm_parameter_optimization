@@ -18,6 +18,9 @@ Number of Attributes: 16
 ![image](https://user-images.githubusercontent.com/89724797/233163603-4bd31461-2aa8-4a74-9d1c-b4270bc9b1de.png)
 
 
+# convergence graph of best SVM
+
+![image](https://user-images.githubusercontent.com/89724797/233164266-4e81e838-3795-4207-8cc1-66d5f9a1a27a.png)
 
 
 
