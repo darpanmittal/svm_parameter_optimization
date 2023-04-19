@@ -5,7 +5,9 @@ In this project, we aimed to assess the effectiveness of Support Vector Machines
 # Dataset Description
 
 The "Room Occupancy Estimation Data Set" available on the UCI Machine Learning Repository is a collection of 20,560 instances with 7 features including temperature, relative humidity, light intensity, CO2 level, humidity ratio, and occupancy status (binary label). This dataset is often used for binary classification tasks to predict room occupancy based on sensor measurements, making it valuable for research and development in areas such as energy management in buildings, smart homes, and other similar environments. It serves as a useful resource for evaluating and comparing different machine learning algorithms, including Support Vector Machines (SVM), for estimating room occupancy.
+
 link:
+
 https://archive.ics.uci.edu/ml/datasets/Room+Occupancy+Estimation
 
 Number of Instances: 10129
